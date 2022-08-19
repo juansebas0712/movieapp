@@ -1,0 +1,19 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "Curso práctico de consumo de API REST con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juansebas0712/movieapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juansebas0712/movieapp/issues"
+  },
+  "homepage": "https://github.com/juansebas0712/movieapp#readme"
+}
