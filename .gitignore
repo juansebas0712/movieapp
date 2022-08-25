@@ -105,3 +105,5 @@ dist
 
 # Secrets.js (API Key)
 src/secrets.js
+
+carbon/

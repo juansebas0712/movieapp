@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/juansebas0712/movieapp/issues"
   },
-  "homepage": "https://github.com/juansebas0712/movieapp#readme"
+  "homepage": "https://github.com/juansebas0712/movieapp#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
